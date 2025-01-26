@@ -49,7 +49,7 @@ public class BookStore {
         }
        
     }
-    
+    // calculation for price after discounts :
     static void calculation (String bookname)
     {
         prln("Are you a Student , Teacher, Alian");
@@ -78,7 +78,7 @@ public class BookStore {
         }
         
     }
-    
+    // Display price : 
     static void Showprice( double price )
     {
        prln("Your payable Balance is : "+price);
